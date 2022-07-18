@@ -51,6 +51,7 @@ def csvToJson(file, newFile):
     with open(newFile,mode='w', encoding='GBK') as fp:
         dumpData = json.dumps(jsonData,ensure_ascii=False)
         fp.write(dumpData)
+        dumpData = json.dumps(data, ensure_ascii=False)
         ...
     ...
 
