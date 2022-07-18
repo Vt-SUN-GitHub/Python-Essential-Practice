@@ -1,3 +1,10 @@
+'''
+业务要求：
+1.	确定网络资源的下载地址
+2.	显示下载文件的相关信息
+3.	下载实时显示下载百分比
+4.	实现多个任务同时下载（选做）
+'''
 import threading
 import urllib.request
 import json
