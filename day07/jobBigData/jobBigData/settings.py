@@ -52,6 +52,8 @@ SPIDER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     'jobBigData.middlewares.JobbigdataDownloaderMiddleware': 543,
+    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
+    'jobBigData.rotate_useragent.RotateUserAgentMiddleware': 400
 }
 
 # Enable or disable extensions
