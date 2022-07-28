@@ -1,4 +1,4 @@
-from day07.jobBigData.jobBigData.dao.JobDao import JobDao
+from day07_day08.jobBigData.jobBigData.dao.JobDao import JobDao
 
 jobDao = JobDao()
 

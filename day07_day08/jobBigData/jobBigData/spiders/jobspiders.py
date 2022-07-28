@@ -1,5 +1,5 @@
 import scrapy
-from day07.jobBigData.jobBigData.items import JobbigdataItem
+from day07_day08.jobBigData.jobBigData.items import JobbigdataItem
 
 class JobspidersSpider(scrapy.Spider):
     name = 'jobspiders'
