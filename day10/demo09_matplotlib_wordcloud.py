@@ -8,6 +8,7 @@ f = open('D:\SUN\study\peacetime\个人\聊天记录词云图\(2625379461).txt',
 
 text=''
 
+#处理脏数据部分，可根据运行效果进行更改
 lines = f.readlines()
 for line in lines:
     if line.isspace():
