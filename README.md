@@ -59,7 +59,7 @@ python模块  | 文件夹  | 作业内容 | 当前进度
 
 - [x] Homework_10
 - `Github社区python项目数据分析 + 统计分析猎聘网站的数据，并进行可视化展示`
-- `使用API调用数据 -> 处理APU响应 -> 利用pyplot可视化`
+- `使用API调用数据 -> 处理API响应 -> 利用pyplot可视化`
 
 ![Homework_10效果图](https://github.com/Vt-SUN-GitHub/Python-Essential-Practice/blob/main/day10/Homework10_result.png "Homework_10效果图")
 
