@@ -22,7 +22,7 @@ python模块  | 文件夹  | 作业内容 | 当前进度
 ### [day10]
 ~~**`import numpy as np`**~~
 
-~~**`~~import matplotlib.pyplot as plt~~`**~~
+~~**`import matplotlib.pyplot as plt`**~~
 - [x] demo01_np_func
 
 - `np.exp(), np.where(), np.add()/subtract(), np.power(), np.modf(), np.log(), np.where(), np.any()/all(), np.sort(), np.unique()`
